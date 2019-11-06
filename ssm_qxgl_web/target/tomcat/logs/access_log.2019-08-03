@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [03/Aug/2019:18:34:02 +0800] "GET /ssm_qxgl_web HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [03/Aug/2019:18:34:02 +0800] "GET /ssm_qxgl_web/ HTTP/1.1" 302 - http-bio-8080-exec-3 58
+0:0:0:0:0:0:0:1 - - [03/Aug/2019:18:34:02 +0800] "GET /ssm_qxgl_web/login.jsp HTTP/1.1" 200 2624 http-bio-8080-exec-4 784
+0:0:0:0:0:0:0:1 - - [03/Aug/2019:18:34:03 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [03/Aug/2019:18:36:07 +0800] "POST /ssm_qxgl_web/login.do HTTP/1.1" 200 13238 http-bio-8080-exec-7 776
